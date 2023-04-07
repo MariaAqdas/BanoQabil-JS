@@ -107,13 +107,11 @@
 // var numberOfCourses = prompt("How many courses in your current semester?");
 // var tooManyCourses = numberOfCourses + 1;
 
-//JS TASKR [6 April]:
-var zakatPercentage = 0.025;
-var userInput = Number( prompt("Enter your total wealth"));
-var result = (zakatPercentage) * (userInput);
-alert ("Your zakat value is " + result)
+//JS TASK [6 April]:
+// var zakatPercentage = 0.025;
+// var userInput = Number( prompt("Enter your total wealth"));
+// var result = (zakatPercentage) * (userInput);
+// alert ("Your zakat value is " + result)
 
+// Complete Task
 
-
-
-///jajjajjaj
