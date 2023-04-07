@@ -101,7 +101,7 @@
 
 // var question = "Your religion";
 // var defaultAnswer = "islam";
-// var spec = prompt(question, defaultAnswer);
+// var\MariaAqdas\BanoQabil-JS.git spec = prompt(question, defaultAnswer);
 
 
 // var numberOfCourses = prompt("How many courses in your current semester?");
