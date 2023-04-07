@@ -1,11 +1,11 @@
 // DAY 1 (5 April):
 
-// alert("welcome unzyy");
+// alert("welcome Maria");
 
 // var user = prompt('Put Your ID');
 // alert("Successfully added")
 
-// var arr= [ 'hello' , 'unzyy'];
+// var arr= [ 'hello' , 'maria'];
 // document.write(arr);
 // console.log(arr);
 
@@ -94,7 +94,7 @@
 
 
 // var message = "Thanks, ";
-// var userName = "unzy";
+// var userName = "Maria";
 // var banger = "!";
 // var value = message + userName + banger;
 // alert(value);
@@ -112,3 +112,8 @@ var zakatPercentage = 0.025;
 var userInput = Number( prompt("Enter your total wealth"));
 var result = (zakatPercentage) * (userInput);
 alert ("Your zakat value is " + result)
+
+
+
+
+///jajjajjaj
